@@ -43,8 +43,8 @@
     ],
     "name": "PWA Budget Tracker",
     "short_name": "Budget",
-    "theme_color": "#ffffff",
-    "background_color": "#01579b",
-    "start_url": "../index.html",
+    "theme_color": "#dddddd",
+    "background_color": "#dddddd",
+    "start_url": "../public/index.html",
     "display": "standalone"
   }
